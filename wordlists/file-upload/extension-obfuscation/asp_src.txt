@@ -1,0 +1,14 @@
+ASHX
+ASP
+ASPX
+CER
+asa
+ashx
+asmx
+asp
+aspx
+cer
+asax
+ascx
+cshtml
+vbhtml
