@@ -1,0 +1,8 @@
+.KSH
+.SH
+.bash
+.csh
+.ksh
+.sh
+.zsh
+.fish
